@@ -11,3 +11,16 @@ C:\Users\prave\source\repos\UniqueWordHelper\UniqueWordHelper\obj\Debug\UniqueWo
 C:\Users\prave\source\repos\UniqueWordHelper\UniqueWordHelper\bin\Debug\UniqueWordService.dll
 C:\Users\prave\source\repos\UniqueWordHelper\UniqueWordHelper\bin\Debug\UniqueWordService.pdb
 C:\Users\prave\source\repos\UniqueWordHelper\UniqueWordHelper\obj\Debug\UniqueWordHelper.csproj.CopyComplete
+C:\Praveen\UniqueWordHelper1\UniqueWordHelper\bin\Debug\UniqueWordHelper.exe.config
+C:\Praveen\UniqueWordHelper1\UniqueWordHelper\bin\Debug\UniqueWordHelper.exe
+C:\Praveen\UniqueWordHelper1\UniqueWordHelper\bin\Debug\UniqueWordHelper.pdb
+C:\Praveen\UniqueWordHelper1\UniqueWordHelper\bin\Debug\UniqueWordService.dll
+C:\Praveen\UniqueWordHelper1\UniqueWordHelper\bin\Debug\UniqueWordService.pdb
+C:\Praveen\UniqueWordHelper1\UniqueWordHelper\obj\Debug\UniqueWordHelper.csprojAssemblyReference.cache
+C:\Praveen\UniqueWordHelper1\UniqueWordHelper\obj\Debug\UniqueWordHelper.Form1.resources
+C:\Praveen\UniqueWordHelper1\UniqueWordHelper\obj\Debug\UniqueWordHelper.Properties.Resources.resources
+C:\Praveen\UniqueWordHelper1\UniqueWordHelper\obj\Debug\UniqueWordHelper.csproj.GenerateResource.cache
+C:\Praveen\UniqueWordHelper1\UniqueWordHelper\obj\Debug\UniqueWordHelper.csproj.CoreCompileInputs.cache
+C:\Praveen\UniqueWordHelper1\UniqueWordHelper\obj\Debug\UniqueWordHelper.csproj.CopyComplete
+C:\Praveen\UniqueWordHelper1\UniqueWordHelper\obj\Debug\UniqueWordHelper.exe
+C:\Praveen\UniqueWordHelper1\UniqueWordHelper\obj\Debug\UniqueWordHelper.pdb

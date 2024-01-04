@@ -47,6 +47,23 @@ namespace UniqueWordHelper
                     Task.WaitAll(fileTaskList.ToArray());
                     //get the final words list.
                     List<KeyValuePair<string,int>> words = wordsService.GetWords();
+
+                    string outputFilePath = string.Format("{0}\\finalresult.txt", txtFolderPath.Text);
+                    if (File.Exists(outputFilePath))
+                    {
+                        File.Delete(outputFilePath);
+                    }
+                    using (var fileStream = File.OpenWrite(string.Format("{0}\\finalresult.txt", txtFolderPath.Text)))
+                    {
+                        using (var streamWriter = new StreamWriter(fileStream, Encoding.UTF8))
+                        {
+                            foreach(KeyValuePair<string,int> word in words)
+                            {
+                                streamWriter.WriteLine(string.Format("{0}. {1}", word.Value, word.Key));
+                            }
+                        }
+                    }
+                    MessageBox.Show("Done, please check the result at : " + outputFilePath);
                 }
             }
         }
