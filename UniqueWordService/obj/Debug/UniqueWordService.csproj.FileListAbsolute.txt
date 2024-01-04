@@ -1,0 +1,6 @@
+C:\Users\prave\source\repos\UniqueWordHelper\UniqueWordService\obj\Debug\UniqueWordService.csprojAssemblyReference.cache
+C:\Users\prave\source\repos\UniqueWordHelper\UniqueWordService\obj\Debug\UniqueWordService.csproj.CoreCompileInputs.cache
+C:\Users\prave\source\repos\UniqueWordHelper\UniqueWordService\bin\Debug\UniqueWordService.dll
+C:\Users\prave\source\repos\UniqueWordHelper\UniqueWordService\bin\Debug\UniqueWordService.pdb
+C:\Users\prave\source\repos\UniqueWordHelper\UniqueWordService\obj\Debug\UniqueWordService.dll
+C:\Users\prave\source\repos\UniqueWordHelper\UniqueWordService\obj\Debug\UniqueWordService.pdb
